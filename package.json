@@ -1,0 +1,21 @@
+{
+  "name": "@alancastro06/fakename",
+  "version": "1.0.0",
+  "description": "Módulo Fakename",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alancastro06/Modulo-Fakename.git"
+  },
+  "keywords": [],
+  "author": "Alan Archangelo e Lucas Cortizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alancastro06/Modulo-Fakename/issues"
+  },
+  "homepage": "https://github.com/alancastro06/Modulo-Fakename#readme"
+}
