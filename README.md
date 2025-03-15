@@ -1,8 +1,8 @@
 # Integrantes
-RM560152 - Alan De Castro De Archangelo
-RM559734 - Lucas Cortizo Carvalho
+RM560152 - Alan De Castro De Archangelo  
+RM559734 - Lucas Cortizo Carvalho  
 
-# Modulo-Coolsolelog
+# Modulo-Coolsolelog  
 Nosso módulo mostra a seguinte mensagem: "Se você fosse um cachorro seu nome seria:" e utiliza o pacote de dogNames para mostrar um nome de cachorro aleatório, utilizamos o pacote de cor chalk para estilizar a Casinha de Cachorro montada com caracteres.
 
 # Como Instalar?
