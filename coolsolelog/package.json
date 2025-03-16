@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/alancastro06/Modulo-Fakename/issues"
   },
-  "homepage": "https://github.com/alancastro06/Modulo-Fakename#readme"
+  "homepage": "https://github.com/alancastro06/Modulo-Fakename#readme",
+  "dependencies": {
+    "ansi-codes": "^0.0.1-security",
+    "chalk": "^5.4.1",
+    "cowsay": "^1.6.0",
+    "dog-names": "^3.0.0"
+  }
 }

@@ -1,3 +1,4 @@
-import coolsolelog from "@alancastro06/coolsolelog";
+import { femaleDogNames } from "dog-names";
+import coolsolelog from "./index.js";
 
-coolsolelog("oi gente")
+coolsolelog("Se você fosse um cachorro seu nome seria:")
