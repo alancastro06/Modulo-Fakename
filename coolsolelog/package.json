@@ -1,0 +1,23 @@
+{
+  "name": "coolsolelog",
+  "version": "22.14.0",
+  "description": "ConsoleLog Emocionante",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alancastro06/Modulo-Fakename.git"
+  },
+  "keywords": [
+    "?"
+  ],
+  "author": "Alan Archangelo e Lucas Cortizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alancastro06/Modulo-Fakename/issues"
+  },
+  "homepage": "https://github.com/alancastro06/Modulo-Fakename#readme"
+}
